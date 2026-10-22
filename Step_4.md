@@ -1,3 +1,6 @@
+
+Define the Truck and Rail capability model
+
 Interfor Truck and Rail TMS Capability Model
 
 This capability model is designed as the master taxonomy for Interfor’s vendor-neutral 360-degree assessment. It separates Truck and Rail capabilities while retaining common enterprise controls for finance, integration, data, security, analytics and operations.
